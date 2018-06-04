@@ -1,0 +1,4 @@
+# just a comment
+
+#ignore img files (there are none in this one)
+*.img
